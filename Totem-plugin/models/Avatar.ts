@@ -1,5 +1,3 @@
-import { SexEnum } from "./enums/sexEnum";
-
 interface Avatar {
     sex: SexEnum;
     skinColor: string;
