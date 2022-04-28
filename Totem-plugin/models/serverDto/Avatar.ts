@@ -1,3 +1,8 @@
+import { BodyFatEnum } from "../enums/BodyFatEnum";
+import { BodyMusclesEnum } from "../enums/BodyMusclesEnum";
+import { HairStyleEnum } from "../enums/HairStyleEnum";
+import { SexEnum } from "../enums/sexEnum";
+
 interface OwnerPlayer {
     id: number;
     name: string;

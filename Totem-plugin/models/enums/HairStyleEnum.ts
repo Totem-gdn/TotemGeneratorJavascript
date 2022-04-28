@@ -1,4 +1,4 @@
-enum HairStyleEnum {
+export enum HairStyleEnum {
     Afro = 1,
     Asymmetrical = 2,
     Braids = 3,
