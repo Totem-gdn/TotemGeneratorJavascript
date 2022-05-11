@@ -3,7 +3,7 @@ import { BodyMusclesEnum } from "./enums/BodyMusclesEnum";
 import { HairStyleEnum } from "./enums/HairStyleEnum";
 import { SexEnum } from "./enums/sexEnum";
 
-interface Avatar {
+export interface Avatar {
     sex: SexEnum;
     skinColor: string;
     hairColor: string;

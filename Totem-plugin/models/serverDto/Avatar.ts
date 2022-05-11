@@ -35,7 +35,7 @@ interface Owner {
     google_oauth?: GoogleOAuth;
 }
 
-interface AvatarDto {
+export interface AvatarDto {
     id: number;
     created_at: number;
     seed: string;
